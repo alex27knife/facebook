@@ -37,4 +37,6 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 
-#gem 'zurb-foundation', '~>4.0.0'
+gem 'zurb-foundation', '~>4.0.0'
+
+gem 'devise'
